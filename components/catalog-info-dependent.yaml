@@ -21,7 +21,7 @@ metadata:
     - vdinicola
 spec:
   type: service
-  owner: change-value
+  owner: TeamA
   lifecycle: experimental
 #  system: Demo
   dependsOn:
